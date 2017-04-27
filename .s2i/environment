@@ -1,1 +1,3 @@
-WAR_FILE_LOCATION=http://nexus3.nexus.svc:8081/repository/releases/org/jboss/quickstarts/eap/jboss-tasks-rs/1.0/jboss-tasks-rs-1.0.war
+TOMCAT_WEBAPPS_DIR=/opt/webserver/webapps
+APP_NAME=ROOT.war
+WAR_FILE_LOCATION=http://nexus3-nexus.192.168.64.2.nip.io/repository/maven-releases/ROOT.war
