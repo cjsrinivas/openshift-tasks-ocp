@@ -5,6 +5,9 @@
 #
 # WAR_FILE_LOCATION: Set in .s2i/environment
 
+TOMCAT_WEBAPPS_DIR=/opt/webserver/webapps
+APP_NAME=ROOT.war
+
 echo "deploying artifact found at $WAR_FILE_LOCATION to $TOMCAT_WEBAPPS_DIR/$APP_NAME"
 curl --insecure -L -o $TOMCAT_WEBAPPS_DIR/$APP_NAME $WAR_FILE_LOCATION
 
