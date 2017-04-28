@@ -1,2 +1,2 @@
 WAR_FILE_LOCATION=http://nexus3-xyz-nexus.192.168.64.2.nip.io/repository/maven-all-public/openshift/getting-started-tomcat/1.0-SNAPSHOT/getting-started-tomcat-1.0-SNAPSHOT.war
-BUILD_NUMBER=18
+BUILD_NUMBER=19
