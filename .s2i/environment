@@ -1,2 +1,2 @@
-WAR_FILE_LOCATION=http://nexus3-xyz-nexus.192.168.64.2.nip.io/repository/releases/openshift/getting-started-tomcat/1.0/getting-started-tomcat-1.0.war
-BUILD_NUMBER=43
+WAR_FILE_LOCATION=http://nexus3.nexus.svc.cluster.local:8081/repository/releases/org/jboss/quickstarts/eap/jboss-tasks-rs/1.7/jboss-tasks-rs-1.7.war
+BUILD_NUMBER=59
